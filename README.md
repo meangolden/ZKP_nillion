@@ -1,5 +1,5 @@
 
-# ZKP Protocol Repository
+# Zero Knoweldge Proof (ZKP) Protocol
 
 This repository contains the outline of a modified version of the Chaum-Pederson Zero-Knowledge Protocol. 
 
