@@ -1,7 +1,11 @@
 
 # Zero Knoweldge Proof (ZKP) Protocol
 
-This repository contains the outline of a modified version of the Chaum-Pederson Zero-Knowledge Protocol. 
+This repository contains the outline of a zero-knowledge proof protocol for authentication.
+The protocol is a modified code of the Chaum-Pederson
+(https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf page 377,subsection "3.2.
+whereby the prover demonstrates knowledge of the private key corresponding to
+the claimed identity through a series of computations mod p.
 
 ## Files
 
